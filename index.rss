@@ -2,6 +2,7 @@
 <title>Barry Forrest's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Cathedral Architect (Level 1)</title><description>Added a submodule to a repository.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -28,5 +29,5 @@
 <item><title>Apprentice Banker (Level 2)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Gipsy (Level 2)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
+<item><title>Gipsy (Level 4)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
